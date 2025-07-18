@@ -1,0 +1,232 @@
+G+ GPCam SDK ver 3.0.11 - 2024.10.23
+Android
+- support targetSdkVersion 34
+
+G+ GPCam SDK ver 3.0.10.3 b1 - 2024.04.23
+Android
+iOS
+- Fix replay bug
+
+G+ GPCam SDK ver 3.0.10.3 b1 - 2023.05.19
+update FFmpeg V1.0.0.5
+Android
+- Fixed up crash when doing play and stop take turns quickly.
+iOS
+- update library and stop player before leaving.
+
+G+ GPCam SDK ver 3.0.10.1 b1 - 2023.02.22
+update FFmpeg V1.0.0.4
+- Fixed up failed to get video pts when no audio channel
+- Do not reset buffering time during start
+
+G+ GPCam SDK ver 3.0.10 b1 - 2022.06.15
+- iOS
+   - fix bug
+   
+- Android  
+   - targetSdkVersion 31
+   - fix select file bug
+
+G+ GPCam SDK ver 3.0.9 b3 - 2021.11.02
+- Andorid update to V3.0.9
+
+G+ GPCam SDK ver 3.0.9 b2 - 2021.08.09
+- iOS
+   - fix crash bug
+   
+- Android  
+   - fix connect crash bug
+   - fix filelist timer bug
+   
+G+ GPCam SDK ver 3.0.7 - 2021.05.13
+- upload to Apple store and Google Play
+
+G+ GPCam SDK ver 3.0.6.6 - 2021.03.15
+- support set next pip
+
+G+ GPCam SDK ver 3.0.6 - 2020.09.09
+- support password exceeds 8 codes
+- support setting buffering time
+- show playback timing
+
+G+ GPCam SDK ver 3.0.4.6 - 2020.05.12
+- Android
+   -fix Android 10 file save on /sdcard folder fail bug
+
+G+ GPCam SDK ver 3.0.4.5 - 2020.05.08
+- Android
+   -targetSdkVersion 29
+
+G+ GPCam SDK ver 3.0.4.4 - 2020.05.06
+- Android
+   -fix load default xml bug
+
+G+ GPCam SDK ver 3.0.4.1 - 2019.12.23
+- Android
+   -fix FilesActivity image too big bug
+- iOS
+   -fix Xcode11 modalPresentationStyle crash
+
+G+ GPCam SDK ver 3.0.4 - 2019.9.4
+- support CheckFileMappin api
+   
+G+ GPCam SDK ver 3.0.2.5 - 2019.05.31
+- Support SetBufferingTime() api
+
+G+ GPCam SDK ver 3.0.2.2 - 2019.02.22
+- iOS 
+	-fix -lstdc++.6
+
+G+ GPCam SDK ver 3.0.2 - 2018.08.23
+- iOS 
+	-ios11 close "openURL:[NSURL URLWithString:@"App-Prefs:root=WIFI"", update openURL method
+- Android
+	-Support targetSdkVersion 26
+
+G+ GPCam SDK ver 3.0.1 - 2017.12.21
+- iOS Android
+	-Update FFmpeg lib
+  -fix bug
+
+G+ GPCam SDK ver 3.0.0.15 - 2017.10.19
+- iOS Android
+	-Update FFmpeg lib
+  -fix bug
+
+G+ GPCam SDK ver 3.0.0.12 - 2017.08.18
+- iOS Android
+	-Support delete SD file
+  -Add GPCam_GetFileExtraInfo() api
+  
+G+ GPCam SDK ver 3.0.0.9 - 2017.07.19
+- iOS Android
+	-If you can not connect, bring the wifi settings page
+
+G+ GPCam SDK ver 3.0.0 - 2017.06.19
+- iOS Android
+	-Improve performance
+	-Support Spanish, German and Russian languages
+	-Bug fix
+
+G+ GPCam SDK ver 2.0.4.6 - 2017.06.02
+- iOS Android
+ - fix some bug for gp15 
+
+G+ GPCam SDK ver 2.0.4.5 - 2017.05.12
+- iOS Android
+ - Add new GoPlus Cam version with using the FFMPEG kernel structure.
+
+G+ GPCam SDK ver 2.0.4 - 2017.03.21
+- iOS Android
+ - fix .so bug(connect crash bug)
+ - add setting dialog to MainActivity(set Vendor Time,save Log)
+ - Support multiple language.
+ - connect.png remove "connect" text
+
+G+ GPCam SDK ver 2.0.1 - 2017.02.02
+- fix google play crash bug
+
+G+ GPCam SDK ver 1.0.7 - 2016.11.18
+=========================================================================
+- Support set file name mapping
+
+- Android
+ - fix FWupgrade bug
+
+G+ GPCam SDK ver 1.0.6 - 2016.09.29
+=========================================================================
+- iOS
+ - Fixed up failed to connect to GoPlusCam when Cellular data is active on iOS10 .
+ - Ping support ipv6
+ - Fixed up crash on iOS 10 when enter file list.
+ - Fixed up failed to check wifi connection on iOS 10
+ - Show local jpeg file by UIImageView instead of VLC.
+ 
+- Android
+ - Add new GoPlus Cam version with using the newer VLC kernel structure.
+ - Fixed up the set string issue (i.e. SSID).
+	(Java doesn't "mark" the end-of-string as C does. It tracks length & values, so it's possible to have zero-chars (\0) in the string.
+	If you create a String from a char array containing \0 chars, the resultant String will contain those characters.)
+ - Fixed up pressing the capture or record event fast issue.
+ - Download flow could be not worked successfully, when press start/stop quickly.
+ - Support to adjust the surface resolution.
+ - fix some crash bug
+
+G+ GPCam SDK ver 1.0.5.3 - 2016.08.16
+=========================================================================
+-Android
+	- Preventing Double Click On A Button
+		1.main file button
+		2.fileview back button
+
+G+ GPCam SDK ver 1.0.5.2 - 2016.08.10
+=========================================================================
+-Android
+	- Ping use executeCommandLine
+
+G+ GPCam SDK ver 1.0.5.1 - 2016.07.28
+=========================================================================
+- Update G+ GPCam Library to V1.0.4
+- Support Lock file
+- Try to using ipv6 address first
+
+G+ GPCam SDK ver 1.0.5.1 - 2016.07.28
+=========================================================================
+- Update G+ GPCam Library to V1.0.4
+- Support Lock file
+- Try to using ipv6 address first
+
+
+G+ GPCam SDK ver 1.0.4 - 2016.04.15
+=========================================================================
+- Update G+ GPCam Library to V1.0.3
+- Support upgrade device firmware.
+- Support load thumbnail faster.
+- For stability, Add 2 second delay when switching between modes.
+
+- iOS
+	- Back to connect view when disconnect with device.
+	- Fixed up thumbnail miss one column when rotate the screen.
+	- Disable saving the downloaded movie which is over 720p to iOS photo library automatically.
+	- Fixed up crash when saving Thumbnail
+
+-Android
+	- Uses the new control VLC libary architecture.
+	- Enhances the getting thumbnail files flow.
+	- Supports to get the firmware version of device from xml file.
+
+
+G+ GPCam SDK ver 1.0.2 - 2015.12.01
+=========================================================================
+- Reduce the time to reconnect after wake up.
+- Update G+ GPCam Library to V1.0.2
+- iOS
+	- Fixed up crash when the thumbnail array is not ready.
+	- Fixed up failed to start streaming after reconnect.
+	- Fixed up hanging issue when press the file button.
+	- Do not stop streaming when switch between record and capture mode.
+-Android
+	- Andorid SDK version updates to V1.0.2.
+	- Android fiexed up crash when the platfrom is Android 5.0 device.
+	- Androdi fiexed up cause the GoPlus Cam crash issue when app change to another views.
+	- Android fiexed up the streaming delay issue when it connect at the first time.
+	- Android modified the get thumbnail files flow.
+	- Support save log feature.
+	
+G+ GPCam SDK ver 1.0.1 - 2015.11.19
+=========================================================================
+- Support android.
+- Support show resolution and remain time.
+- Update G+ GPCam Library to V1.0.1.
+- iOS fixed up crash when save large file to camera roll. 
+- Andorid SDK version updates to V1.0.1.2
+
+G+ GPCam SDK ver 1.0.0.1 - 2015.10.26
+=========================================================================
+- iOS demo support save download file to camera roll.
+- iOS fixed up failed to connect when wake up from sleep.
+
+G+ GPCam SDK ver 1.0.0 - 2015.10.15
+=========================================================================
+- First release.
+
