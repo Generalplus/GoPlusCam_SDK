@@ -1,0 +1,14 @@
+prefix=/Users/generalplus_sa1/Desktop/ffmpeg/ffmpeg-4.0.4/FFmpeg-android/arm64-v8a
+exec_prefix=${prefix}
+libdir=/Users/generalplus_sa1/Desktop/ffmpeg/ffmpeg-4.0.4/FFmpeg-android/arm64-v8a/lib
+includedir=/Users/generalplus_sa1/Desktop/ffmpeg/ffmpeg-4.0.4/FFmpeg-android/arm64-v8a/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 56.14.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil -pthread -lm
+Libs.private: 
+Cflags: -I${includedir}

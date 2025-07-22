@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Common 俄文(русский)
+    <string name="OK">ОК</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Confirm">Подтвердить</string>
+    <string name="Abort">Прекратить</string>
+    <string name="Record">Запись</string>
+    <string name="Capture">Захватить</string>
+    <string name="File">Файл</string>
+    <string name="Play">Воспроизвести</string>
+    <string name="Download">Скачать</string>
+    <string name="Info">Информация</string>
+    <string name="Delete">Удалить</string>
+    <string name="failed">Не удалось</string>
+    <string name="Failed">Не удалось</string>
+    <string name="Connected">Подключено</string>
+    <string name="Connecting">Подключение</string>
+    <string name="Buffering">Буферизация</string>
+    <string name="Failed_to_connect">Не удалось подключиться</string>
+    <string name="Time">Время</string>
+    <string name="Size">Размер</string>
+    <string name="Mode">Режим</string>
+    <string name="Done">Готово</string>
+    <string name="Save">Сохранить</string>
+    <string name="Select_file">Выберите файл</string>
+
+
+    //MainActivity
+    <string name="Please_connect_message">Пожалуйста, подключитесь к авторизованному Wi-Fi-устройст</string>
+    <string name="Permission_denied">Доступ запрещен.</string>
+
+    //MainViewController
+    <string name="Reset_VLC">Сбросить VLC</string>
+    <string name="Record_resolution_unknown">Неизвестное разрешение записи</string>
+    <string name="Capture_resolution_unknown">Разрешение захвата неизвестно</string>
+    <string name="Setting">настройка</string>
+    <string name="Set_Wifi_sport_Cam_Time">Установить Wi-Fi спорт Cam Time</string>
+    <string name="Save_Log">Сохранить системный журнал</string>
+    <string name="Set_Buffering_Time">Установить время буфера (ms)</string>
+    <string name="Disable">запрещать</string>
+    <string name="Enable">включить</string>
+
+    //SettingActivity
+    <string name="Getting_menu">Получение меню ...</string>
+    <string name="Unknown">Неизвестный</string>
+    <string name="Are_you_sure_to_do">Вы уверены, что</string>
+    <string name="FWUpgrade">FW обновление</string>
+    <string name="Setting_Fail">Ошибка настройки</string>
+
+    //FilesActivity
+    <string name="Downloading">Загрузка ... </string>
+    <string name="Download_wait">Поток загрузки не завершен, подождите!</string>
+    <string name="Copy_file">Скопируйте файл, пожалуйста, подождите.</string>
+    <string name="Get_Thumbnail_Failed">Сбой эскиза!</string>
+    <string name="No_Storage">Нет Хранения!</string>
+    <string name="No_File">Нет файла!</string>
+    <string name="Delete_Phone_File">Удалить файл телефона</string>
+    <string name="Delete_SD_File">Удалить Wifi sport Cam файл</string>
+
+    //FileViewController
+    <string name="Error_with_hardware_acceleration">Ошибка с аппаратным ускорением</string>
+
+    //FWUpgradeActivity
+    <string name="Upgrade_Firmware">Обновление прошивки</string>
+    <string name="Upgrade_Firmware_successfully">Обновление прошивки успешно</string>
+    <string name="Upgrade_Firmware_failed">Ошибка обновления прошивки</string>
+    <string name="Error_Code">Код ошибки = </string>
+    <string name="Please_reboot">Перезагрузите Wi-Fi экшн-камеры и APP.</string>
+    <string name="UnValid_File_Path">Неверный путь к файлу</string>
+    <string name="Upgrade_Firmware_File_Path">Вы действительно хотите выбрать %s обновление прошивки?</string>
+    <string name="incorrect_firmware_file">Файл %s - неправильный файл прошивки</string>
+    <string name="Load_File_Fail">Ошибка загрузки файла</string>
+    <string name="No_suitable_File_Manager">Не найдено подходящего File Manager.</string>
+    <string name="Select_file_to_upgrade">Выберите файл для обновления устройства FW</string>
+
+</resources>

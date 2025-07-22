@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Common 西班牙文(Español)
+    <string name="OK">Confirmar</string>
+    <string name="Yes">Sí</string>
+    <string name="No">No</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="Abort">Suspender</string>
+    <string name="Record">Video</string>
+    <string name="Capture">Fotos</string>
+    <string name="File">Archivo</string>
+    <string name="Play">Play</string>
+    <string name="Download">Descargar</string>
+    <string name="Info">Propiedades</string>
+    <string name="Delete">Eliminar</string>
+    <string name="failed">Fallo</string>
+    <string name="Failed">Fallo</string>
+    <string name="Connected">Conectado</string>
+    <string name="Connecting">Conectando</string>
+    <string name="Buffering">Amortiguamiento</string>
+    <string name="Failed_to_connect">Error de conexión</string>
+    <string name="Time">Tiempo</string>
+    <string name="Size">Capacidad</string>
+    <string name="Mode">Modo</string>
+    <string name="Done">Completada</string>
+    <string name="Save">Salvar</string>
+    <string name="Select_file">Seleccionar un archivo</string>
+
+
+    //MainActivity
+    <string name="Please_connect_message">Conectar a un dispositivo Wifi sport Cam autorizado o volver a intentar reiniciar Wifi de la Sport Cam primero</string>
+    <string name="Permission_denied">Permiso denegado.</string>
+
+    //MainViewController
+    <string name="Reset_VLC">Reiniciar reproductor</string>
+    <string name="Record_resolution_unknown">Resolución de vídeo desconocida</string>
+    <string name="Capture_resolution_unknown">Resolución de fotografía desconocida</string>
+    <string name="Setting">Ajuste</string>
+    <string name="Set_Wifi_sport_Cam_Time">Establecer Wifi deporte Cam Time</string>
+    <string name="Save_Log">Guardar registro</string>
+    <string name="Set_Buffering_Time">Establecer tiempo de búfer (ms)</string>
+    <string name="Disable">Inhabilitar</string>
+    <string name="Enable">Habilitar</string>
+
+    //SettingActivity
+    <string name="Getting_menu">Obtener Menú</string>
+    <string name="Unknown">Desconocido</string>
+    <string name="Are_you_sure_to_do">¿está seguro de que desea ejecutar?</string>
+    <string name="FWUpgrade">Actualizaciones de firmware</string>
+    <string name="Setting_Fail">Configuración fallida</string>
+
+    //FilesActivity
+    <string name="Downloading">Descargar </string>
+    <string name="Download_wait">¡ por favor espere mientras el proceso de descarga se completa!</string>
+    <string name="Copy_file">Por favor espere mientras el archivo se copia</string>
+    <string name="Get_Thumbnail_Failed">Error al obtener la miniatura</string>
+    <string name="No_Storage">Sin tarjeta de memoria</string>
+    <string name="No_File">Ningún archivo!</string>
+    <string name="Delete_Phone_File">Eliminar archivo del teléfono</string>
+    <string name="Delete_SD_File">Eliminar Wifi sport Cam archivo</string>
+
+    //FileViewController
+    <string name="Error_with_hardware_acceleration">Error de aceleración de hardware</string>
+
+    //FWUpgradeActivity
+    <string name="Upgrade_Firmware">Actualización del firmware</string>
+    <string name="Upgrade_Firmware_successfully">Firmware actualizado correctamente</string>
+    <string name="Upgrade_Firmware_failed">Error al actualizar</string>
+    <string name="Error_Code">Código de error </string>
+    <string name="Please_reboot">Por favor reinicie la wifi de la Sport CAM y la aplicación</string>
+    <string name="UnValid_File_Path">Ruta de acceso de archivo no válida</string>
+    <string name="Upgrade_Firmware_File_Path">¿está seguro de que desea seleccionar el firmware de actualización de %s?</string>
+    <string name="incorrect_firmware_file">El archivo %s es un archivo de actualización incorrecto</string>
+    <string name="Load_File_Fail">Error al cargar el archivo</string>
+    <string name="No_suitable_File_Manager">No se encontró el administrador de archivos apropiado.</string>
+    <string name="Select_file_to_upgrade">Seleccionar el archivo para actualizar </string>
+
+</resources>

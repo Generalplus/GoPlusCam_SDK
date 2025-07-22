@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Common
+    <string name="OK">確定</string>
+    <string name="Yes">是</string>
+    <string name="No">否</string>
+    <string name="Cancel">取消</string>
+    <string name="Confirm">確認</string>
+    <string name="Abort">中止</string>
+    <string name="Record">錄影</string>
+    <string name="Capture">拍照</string>
+    <string name="File">檔案</string>
+    <string name="Play">播放</string>
+    <string name="Download">下載</string>
+    <string name="Info">屬性</string>
+    <string name="Delete">刪除</string>
+    <string name="failed">失敗</string>
+    <string name="Failed">失敗</string>
+    <string name="Connected">已連線</string>
+    <string name="Connecting">連線中</string>
+    <string name="Buffering">緩衝</string>
+    <string name="Failed_to_connect">連線失敗</string>
+    <string name="Time">時間</string>
+    <string name="Size">容量</string>
+    <string name="Mode">模式</string>
+    <string name="Done">完成</string>
+    <string name="Save">保存</string>
+    <string name="Select_file">選擇檔案</string>
+
+    //MainActivity
+    <string name="Please_connect_message">請連接到認證過的 Wifi sport Cam 或是 嘗試先重啟Wifi sport Cam。</string>
+    <string name="Permission_denied">沒有權限</string>
+
+    //MainViewController
+    <string name="Reset_VLC">重設播放器</string>
+    <string name="Record_resolution_unknown">錄影解析度未知</string>
+    <string name="Capture_resolution_unknown">拍照解析度未知</string>
+    <string name="Setting">設定</string>
+    <string name="Set_Wifi_sport_Cam_Time">設定Wifi sport Cam時間</string>
+    <string name="Save_Log">儲存日誌</string>
+    <string name="Set_Buffering_Time">設定緩衝時間 (ms)</string>
+    <string name="Disable">停用</string>
+    <string name="Enable">啟用</string>
+
+    //SettingActivity
+    <string name="Getting_menu">正在取得菜單 ...</string>
+    <string name="Unknown">未知</string>
+    <string name="Are_you_sure_to_do">你確定要執行</string>
+    <string name="FWUpgrade">韌體更新</string>
+    <string name="Setting_Fail">設定失敗</string>
+
+    //FilesActivity
+    <string name="Downloading">下載中 ... </string>
+    <string name="Download_wait">下載未完成，請稍等！！</string>
+    <string name="Copy_file">複製檔案，請稍等。</string>
+    <string name="Get_Thumbnail_Failed">讀取截圖失敗！</string>
+    <string name="No_Storage">沒有儲存裝置！</string>
+    <string name="No_File">無檔案!</string>
+    <string name="Delete_Phone_File">刪除手機檔案</string>
+    <string name="Delete_SD_File">刪除 Wifi sport Cam 檔案</string>
+
+    //FileViewController
+    <string name="Error_with_hardware_acceleration">硬件加速出錯</string>
+
+    //FWUpgradeActivity
+    <string name="Upgrade_Firmware">更新韌體</string>
+    <string name="Upgrade_Firmware_successfully">更新韌體成功</string>
+    <string name="Upgrade_Firmware_failed">更新韌體失敗</string>
+    <string name="Error_Code">錯誤代碼 = </string>
+    <string name="Please_reboot">請重啟Wifi sport Cam與App</string>
+    <string name="UnValid_File_Path">無效的檔案路徑</string>
+    <string name="Upgrade_Firmware_File_Path">你確定要選擇 %s 更新韌體?</string>
+    <string name="incorrect_firmware_file">檔案 %s 是不正確的韌體檔案</string>
+    <string name="Load_File_Fail">檔案讀取錯誤Load File Fail</string>
+    <string name="No_suitable_File_Manager">未找到合適的文件管理器</string>
+    <string name="Select_file_to_upgrade">選擇檔案更新韌體</string>
+</resources>

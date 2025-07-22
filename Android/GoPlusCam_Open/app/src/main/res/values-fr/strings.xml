@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Common 法文
+    <string name="OK">Déterminer</string>
+    <string name="Yes">Est</string>
+    <string name="No">Non</string>
+    <string name="Cancel">Annuler</string>
+    <string name="Confirm">Confirmation</string>
+    <string name="Abort">Suspendre</string>
+    <string name="Record">Vidéo</string>
+    <string name="Capture">Prendre des photos</string>
+    <string name="File">Fichier</string>
+    <string name="Play">Lecture</string>
+    <string name="Download">Télécharger</string>
+    <string name="Info">Attribut</string>
+    <string name="Delete">Supprimer</string>
+    <string name="failed">L\'échec</string>
+    <string name="Failed">L\'échec</string>
+    <string name="Connected">Est connecté</string>
+    <string name="Connecting">Lors de la connexion</string>
+    <string name="Buffering">Mise en mémoire tampon</string>
+    <string name="Failed_to_connect">Un échec de la connexion</string>
+    <string name="Time">Le temps</string>
+    <string name="Size">Capacité</string>
+    <string name="Mode">Mode</string>
+    <string name="Done">Finir</string>
+    <string name="Save">Enregistrer</string>
+    <string name="Select_file">Sélectionner un fichier</string>
+
+    //MainActivity
+    <string name="Please_connect_message">Se connecter à un réseau Wi-fi ou redémarrer la caméra.</string>
+    <string name="Permission_denied">Permission refusée.</string>
+
+    //MainViewController
+    <string name="Reset_VLC">Lecteur de redémarrage</string>
+    <string name="Record_resolution_unknown">Résolution vidéo inconnue</string>
+    <string name="Capture_resolution_unknown">La résolution de la caméra inconnu</string>
+    <string name="Setting">Réglage</string>
+    <string name="Set_Wifi_sport_Cam_Time">Ensemble Wifi sport Cam Temps</string>
+    <string name="Save_Log">Enregistrer le journal</string>
+    <string name="Set_Buffering_Time">Définir la durée du tampon (ms)</string>
+    <string name="Disable">Désactiver</string>
+    <string name="Enable">permettre</string>
+
+    //SettingActivity
+    <string name="Getting_menu">Pour obtenir un menu</string>
+    <string name="Unknown">Inconnu</string>
+    <string name="Are_you_sure_to_do">Tu es sûr de vouloir l\'exécution</string>
+    <string name="FWUpgrade">Le Micrologiciel mis à jour</string>
+    <string name="Setting_Fail">Échec du réglage</string>
+
+    //FilesActivity
+    <string name="Downloading">Télécharger</string>
+    <string name="Download_wait">Le processus de téléchargement n\'est pas encore achevée, s\'il vous plaît!</string>
+    <string name="Copy_file">Copier des fichiers, s\'il vous plaît.</string>
+    <string name="Get_Thumbnail_Failed">Le diagramme d\'échec!</string>
+    <string name="No_Storage">Sans la carte mémoire!</string>
+    <string name="No_File">Pas de fichier!</string>
+    <string name="Delete_Phone_File">Supprimer le fichier du téléphone</string>
+    <string name="Delete_SD_File">Supprimer Wifi sport Cam fichier</string>
+
+    //FileViewController
+    <string name="Error_with_hardware_acceleration">Erreur d\'accélération de matériel</string>
+
+    //FWUpgradeActivity
+    <string name="Upgrade_Firmware">Le Micrologiciel mis à jour</string>
+    <string name="Upgrade_Firmware_successfully">Mise à niveau de succès</string>
+    <string name="Upgrade_Firmware_failed">Pas de mise à jour</string>
+    <string name="Error_Code">Code d\'erreur = </string>
+    <string name="Please_reboot">Veuillez redémarrer Cam app et sport WiFi.</string>
+    <string name="UnValid_File_Path">Le chemin de fichier non valable</string>
+    <string name="Upgrade_Firmware_File_Path">Veuillez confirmer %s la mise à jour?</string>
+    <string name="incorrect_firmware_file">Fichier %s incorrect</string>
+    <string name="Load_File_Fail">Pas de fichier de charge</string>
+    <string name="No_suitable_File_Manager">Pas de gestionnaire de fichiers appropriés.</string>
+    <string name="Select_file_to_upgrade">Selection des fichiers</string>
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Common 德文(Deutsch)
+    <string name="OK">OK</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Nein</string>
+    <string name="Cancel">Stornieren</string>
+    <string name="Confirm">Bestätigen</string>
+    <string name="Abort">Abbrechen</string>
+    <string name="Record">Aufnehmen</string>
+    <string name="Capture">Foto Aufnehmen</string>
+    <string name="File">Datei</string>
+    <string name="Play">Play</string>
+    <string name="Download">Download</string>
+    <string name="Info">Info</string>
+    <string name="Delete">Löschen</string>
+    <string name="failed">Fehlgeschlagen</string>
+    <string name="Failed">Fehlgeschlagen</string>
+    <string name="Connected">Verbunden</string>
+    <string name="Connecting">Verbinden</string>
+    <string name="Buffering">Pufferung</string>
+    <string name="Failed_to_connect">Verbindung fehlgeschlagen</string>
+    <string name="Time">Zeit</string>
+    <string name="Size">Größe</string>
+    <string name="Mode">Modus</string>
+    <string name="Done">Fertig</string>
+    <string name="Save">Speichern</string>
+    <string name="Select_file">Datei Auswahl</string>
+
+
+    //MainActivity
+    <string name="Please_connect_message">Bitte verbinden Sie Ihr Mobilgerät mit der Discovery Adventures Action Cam</string>
+    <string name="Permission_denied">Zugriff verweigert.</string>
+
+    //MainViewController
+    <string name="Reset_VLC">Reset VLC</string>
+    <string name="Record_resolution_unknown">Aufnahme Auflösung unbekannt</string>
+    <string name="Capture_resolution_unknown">Fotoaufnahme Auflösung unbekannt</string>
+    <string name="Setting">Einstellung</string>
+    <string name="Set_Wifi_sport_Cam_Time">Set Wifi Sport Cam Zeit</string>
+    <string name="Save_Log">Export Log</string>
+    <string name="Set_Buffering_Time">Pufferzeit einstellen (ms)</string>
+    <string name="Disable">Deaktivieren</string>
+    <string name="Enable">Aktivieren</string>
+
+    //SettingActivity
+    <string name="Getting_menu">öffne Menü </string>
+    <string name="Unknown">Unbekannt</string>
+    <string name="Are_you_sure_to_do">Sind sie sicher?</string>
+    <string name="FWUpgrade">Firmware Upgrade</string>
+    <string name="Setting_Fail">Einstellung fehlgeschlagen</string>
+
+    //FilesActivity
+    <string name="Downloading">Herunterladen… </string>
+    <string name="Download_wait">Bitte warten! Der Download ist noch nicht abgeschlossen.</string>
+    <string name="Copy_file">Kopiere Datei, bitte warten!</string>
+    <string name="Get_Thumbnail_Failed">Öffnen des Thumbnails fehlgeschlagen</string>
+    <string name="No_Storage">Kein Speicher</string>
+    <string name="No_File">Keine Datei!</string>
+    <string name="Delete_Phone_File">Telefondatei löschen</string>
+    <string name="Delete_SD_File">Löschen Wifi sport Cam datei</string>
+
+    //FileViewController
+    <string name="Error_with_hardware_acceleration">Fehler der Hardwarebeschleunigung</string>
+
+    //FWUpgradeActivity
+    <string name="Upgrade_Firmware">Firmware Upgrade</string>
+    <string name="Upgrade_Firmware_successfully">Firmware Upgrade erfolgreich</string>
+    <string name="Upgrade_Firmware_failed">Firmware Upgrade fehlgeschlagen</string>
+    <string name="Error_Code">Fehler Code </string>
+    <string name="Please_reboot">Bitte die Kamera und APP neustarten</string>
+    <string name="UnValid_File_Path">Ungültiger Dateispeicherort</string>
+    <string name="Upgrade_Firmware_File_Path">Sind sie sicher die Datei %s auszuwählen um die Firmaware zu aktualisieren?</string>
+    <string name="incorrect_firmware_file">Die Datei %s ist inkorrekt</string>
+    <string name="Load_File_Fail">Laden der Datei fehlgeschlagen</string>
+    <string name="No_suitable_File_Manager">Kein passender File Manager gefunden</string>
+    <string name="Select_file_to_upgrade">Wählen Sie eine Datei um die Firmware zu aktualisieren</string>
+
+</resources>
