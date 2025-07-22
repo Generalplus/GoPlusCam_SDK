@@ -1,0 +1,167 @@
+/*
+ Localizable.strings
+ GoPlus Cam
+ 
+ Created by generalplus_sa1 on 2017/2/14.
+ Copyright © 2017年 generalplus_sa1. All rights reserved.
+ */
+
+//Common
+"OK"                                            = "確定";
+"Yes"                                           = "是";
+"No"                                            = "否";
+"Cancel"                                        = "取消";
+"Confirm"                                       = "確認";
+"Abort"                                         = "中止";
+"Record"                                        = "錄影";
+"Capture"                                       = "拍照";
+"File"                                          = "檔案";
+"Play"                                          = "播放";
+"Download"                                      = "下載";
+"Info"                                          = "屬性";
+"Delete"                                        = "刪除";
+"failed"                                        = "失敗";
+"Failed"                                        = "失敗";
+"Connected"                                     = "已連線";
+"Connecting"                                    = "連線中";
+"Failed to connect"                             = "連線失敗";
+"Time"                                          = "時間";
+"Size"                                          = "容量";
+"Mode"                                          = "模式";
+"Done"                                          = "完成";
+"Save"                                          = "保存";
+
+//EntryViewController
+"Wifi sport Cam not found"                      = "未連接上 Wifi sport Cam";
+"Please connect to Wifi sport Cam first."       = "請先連接上 Wifi sport Cam.";
+"Setting"                                       = "設定";
+"Set Wifi sport Cam Time"                       = "設定Wifi sport Cam時間";
+"Save Log"                                      = "儲存日誌";
+"Set Buffering Time"                            = "設定緩衝時間 (ms)";
+"Discard corrupt"                               = "不顯示破圖";
+"Disable"                                       = "停用";
+"Enable"                                        = "啟用";
+
+//MainViewController
+
+//SettingTableViewController
+"Perform action"                                = "執行動作";
+"Are you sure to do"                            = "你確定要執行";
+
+//FWSelectTableViewController
+"Upgrade Firmware"                              = "更新韌體";
+"Are you sure to select \"%@\" to upgrade firmware?"    = "你確定要選擇 \"%@\" 更新韌體?";
+"Select file to upgrade device FW"              = "選擇檔案更新韌體";
+"Upgrade Firmware failed"                       = "更新韌體失敗";
+"File \"%@\" is incorrect firmware file"        = "檔案 \"%@\" 是不正確的韌體檔案";
+"Upgrade Firmware successfully"                 = "更新韌體成功";
+"Please reboot the Wifi sport Cam and APP."     = "請重啟Wifi sport Cam與App";
+
+//FileListCollectionViewController
+"Loading"                                       = "載入中";
+"Delete File"                                   = "刪除檔案";
+"Do you sure to delete"                         = "你確定要刪除";
+"Save to iOS photo library failed!"             = "儲存到iOS相簿失敗!";
+"Resolution > 720P!"                            = "解析度 > 720P!";
+"Video file with resolution > 720P will not save to iOS photo library!"        = "影片解析度 > 720P 將無法存入iOS相簿!";
+"Download file"                                 = "下載檔案";
+"has been downloaded."                          = "已經下載過.";
+"Delete phone file"                             = "刪除手機檔案";
+"Delete Wifi sport Cam file"                    = "刪除 Wifi sport Cam 檔案";
+
+//ProtocolAgent
+"Server Is Busy!"                               = "伺服器正在忙碌!";
+"Invalid Command!"                              = "無效的命令!";
+"Request TimeOut!"                              = "需求過時!";
+"Mode Error!"                                   = "模式錯誤!";
+"No Storage!"                                   = "沒有儲存裝置!";
+"Write Failed"                                  = "寫入失敗";
+"Get File List Failed!"                         = "讀取檔案清單失敗!";
+"Get Thumbnail Failed!"                         = "讀取截圖失敗!";
+"Full Storage!"                                 = "儲存裝置已滿!";
+"Battery Low!"                                  = "低電量!";
+"Mem malloc error!"                             = "記憶體配置錯誤!";
+"Checksum error!"                               = "Checksum錯誤!";
+"No File!"                                      = "無檔案!";
+"Connect to"                                    = "連接";
+"Please connect to an authorized Wifi sport Cam device or\n retry to restart the sport Cam first."           = "請連接到認證過的 Wifi sport Cam 或是\n 嘗試先重啟Wifi sport Cam.";
+"Command left"                                  = "命令剩下";
+"Lost connection! Command failed"               = "失去連線! 命令失敗";
+"Failed! Unknown error code"                    = "失敗! 未知的錯誤碼";
+"Send SetMode"                                  = "傳送 設定模式";
+"Getting prameter file"                         = "讀取設定檔案";
+"Send PowerOff"                                 = "傳送 電源關閉";
+"Send RestartStreaming"                         = "傳送 重新串流";
+"Send record"                                   = "傳送 錄影";
+"Send AudioOnOff"                               = "傳送 聲音開關";
+"Send CapturePicture"                           = "傳送 拍照";
+"Send StartPlayback"                            = "傳送 開始播放";
+"Send PausePlayback"                            = "傳送 暫停播放";
+"Send GetFullFileList"                          = "傳送 取得檔案清單";
+"Send GetFileThumbnail"                         = "傳送 取得檔案截圖";
+"Send GetFileRawData"                           = "傳送 取得檔案原始內容";
+"Send SendStopPlayback"                         = "傳送 停止播放";
+"Send SendDeleteFile"                           = "傳送 刪除檔案";
+"Send SetParameter"                             = "傳送 設定參數";
+"Send FirmwareDownload"                         = "傳送 下載韌體";
+"Send FirmwareRawData"                          = "傳送 韌體原始內容";
+"Send FirmwareUpgrade"                          = "傳送 韌體更新";
+"Send VendorCmd"                                = "傳送 VendorCmd";
+"Getting setting from device"                   = "從裝置讀取設定";
+"Downloading %.f%%"                             = "下載中 %.f%%";
+"Buffering"                                     = "緩衝";
+
+//setting xml file
+/*
+"Resolution"                                    = "解析度";
+"Exposure"                                      = "曝光補償";
+"Motion Detection"                              = "移動偵測";
+"Loop Recording"                                = "循環錄影";
+"WDR"                                           = "WDR";
+"Record Audio"                                  = "錄影聲音";
+"Date Stamp"                                    = "日期標籤";
+"Quality"                                       = "影像品質";
+"Sequence"                                      = "連續拍照";
+"Anti-Shaking"                                  = "防手震";
+"Date/Time"                                     = "日期/時間";
+"Sharpness"                                     = "銳利度";
+"White Balance"                                 = "白平衡";
+"System"                                        = "系統";
+"Frequency"                                     = "光源頻率";
+"Screen Saver"                                  = "螢幕保護";
+"Auto Power Off"                                = "自動關機";
+"Language"                                      = "語系";
+"Beep Sound"                                    = "按鍵聲音";
+"Clear Buffer"                                  = "清除暫存";
+"Format"                                        = "格式化";
+"Default Setting"                               = "預設值";
+"Version"                                       = "版本";
+"WifiName"                                      = "SSID";
+"Password"                                      = "密碼";
+
+"Auto"                                          = "自動";
+"Off"                                           = "關";
+"On"                                            = "開";
+"1 Minute"                                      = "1 分鐘";
+"2 Minutes"                                     = "2 分鐘";
+"3 Minutes"                                     = "3 分鐘";
+"5 Minutes"                                     = "5 分鐘";
+"10 Minutes"                                    = "10 分鐘";
+"Date"                                          = "日期";
+"Fine"                                          = "較佳";
+"Normal"                                        = "一般";
+"Economical"                                    = "經濟";
+
+"Strong"                                        = "強列";
+"Soft"                                          = "柔和";
+"Daylight"                                      = "日光";
+"Cloudy"                                        = "陰天";
+"Tungsten"                                      = "燈泡";
+"Flourescent"                                   = "日光燈";
+
+"English"                                       = "English";
+"Traditional Chinese"                           = "繁體中文";
+"Simplified Chinese"                            = "简体中文";
+*/
+
+

@@ -1,0 +1,166 @@
+/* 
+  Localizable.strings
+  GoPlus Cam
+
+  Created by generalplus_sa1 on 2017/2/14.
+  Copyright © 2017年 generalplus_sa1. All rights reserved.
+*/
+
+//Common 法文
+"OK"                                            = "OK";
+"Yes"                                           = "Oui";
+"No"                                            = "No";
+"Cancel"                                        = "Annuler";
+"Confirm"                                       = "Valider";
+"Abort"                                         = "Suspendre";
+"Record"                                        = "Enregistrement";
+"Capture"                                       = "Prendre des photos";
+"File"                                          = "Document";
+"Play"                                          = "Lecture";
+"Download"                                      = "Télécharger";
+"Info"                                          = "Infos";
+"Delete"                                        = "Supprimer";
+"failed"                                        = "Echec";
+"Failed"                                        = "Echec";
+"Connected"                                     = "Connecté";
+"Connecting"                                    = "En connexion";
+"Failed to connect"                             = "Echec de la connexion";
+"Time"                                          = "Heure";
+"Size"                                          = "Taille";
+"Mode"                                          = "Mode";
+"Done"                                          = "Terminé";
+"Save"                                          = "Enregistrement";
+
+//EntryViewController
+"Wifi sport Cam not found"                      = "Caméra non trouvée";
+"Please connect to Wifi sport Cam first."       = "Veuillez vous connecter à la caméra .";
+"Setting"                                       = "Réglage";
+"Set Wifi sport Cam Time"                       = "Ensemble Wifi sport Cam Temps";
+"Save Log"                                      = "Enregistrer le journal";
+"Set Buffering Time"                            = "Définir la durée du tampon (ms)";
+"Discard corrupt"                               = "Ne pas afficher les images cassées";
+"Disable"                                       = "Désactiver";
+"Enable"                                        = "permettre";
+
+//MainViewController
+
+//SettingTableViewController
+"Perform action"                                = "L'exécution de l'action";
+"Are you sure to do"                            = "Veuillez confirmer";
+
+//FWSelectTableViewController
+"Upgrade Firmware"                              = "Mise à jour du firmware";
+"Are you sure to select \"%@\" to upgrade firmware?"    = "Veuillez confirmer \"%@\" la mise à jour?";
+"Select file to upgrade device FW"              = "Selection des fichiers";
+"Upgrade Firmware failed"                       = "Echec de la mise à jour";
+"File \"%@\" is incorrect firmware file"        = "Fichier  \"%@\" incorrect";
+"Upgrade Firmware successfully"                 = "Mise à jour réussie";
+"Please reboot the Wifi sport Cam and APP."     = "Reset la caméra et l'application.";
+
+//FileListCollectionViewController
+"Loading"                                       = "En cours de chargement";
+"Delete File"                                   = "Suppression du fichier";
+"Do you sure to delete"                         = "Veuillez confirmer la suppression";
+"Save to iOS photo library failed!"             = "Echec d'enregistrement dans la galerie photo!";
+"Resolution > 720P!"                            = "Résolution > 720P!";
+"Video file with resolution > 720P will not save to iOS photo library!"        = "Fichier vidéo > 720P ne sera pas enregistré dans la galerie photo!";
+"Download file"                                 = "Télécharger le fichier";
+"has been downloaded."                          = "Téléchargement terminé.";
+"Delete phone file"                             = "Supprimer le fichier du telephone";
+"Delete Wifi sport Cam file"                    = "Supprimer Wifi sport Cam fichier";
+
+//ProtocolAgent
+"Server Is Busy!"                               = "Serveur occupé!";
+"Invalid Command!"                              = "Invalide!";
+"Request TimeOut!"                              = "Délai dépassé!";
+"Mode Error!"                                   = "Erreur!";
+"No Storage!"                                   = "Pas de stockage!";
+"Write Failed"                                  = "Echec écriture";
+"Get File List Failed!"                         = "Echec demande liste de fichiers!";
+"Get Thumbnail Failed!"                         = "L'échec de la lecture!";
+"Full Storage!"                                 = "Stockage plein!";
+"Battery Low!"                                  = "Batterie faible!";
+"Mem malloc error!"                             = "Erreur de configuration de mémoire!";
+"Checksum error!"                               = "Code de vérification d'erreur!";
+"No File!"                                      = "Pas de fichier!";
+"Connect to"                                    = "Se connecter ";
+"Please connect to an authorized Wifi sport Cam device or\n retry to restart the sport Cam first."           = "Se connecter à un réseau Wi-fi ou redémarrer la caméra.";
+"Command left"                                  = "La directive reste";
+"Lost connection! Command failed"               = "Connexion perdue";
+"Failed! Unknown error code"                    = "Echec";
+"Send SetMode"                                  = "Envoyer En mode de réglage";
+"Getting prameter file"                         = "Lire Des fichiers de configuration";
+"Send PowerOff"                                 = "Envoyer Un commutateur de puissance";
+"Send RestartStreaming"                         = "Envoyer Re en continu";
+"Send record"                                   = "Envoyer Vidéo";
+"Send AudioOnOff"                               = "Envoyer Commutateur de voix";
+"Send CapturePicture"                           = "Envoyer Prendre des photos";
+"Send StartPlayback"                            = "Envoyer Commencer à jouer";
+"Send PausePlayback"                            = "Envoyer Pause";
+"Send GetFullFileList"                          = "Envoyer Obtenir la liste de fichiers";
+"Send GetFileThumbnail"                         = "Envoyer Obtenir une vignette";
+"Send GetFileRawData"                           = "Envoyer Obtenir les données du document original";
+"Send SendStopPlayback"                         = "Envoyer Arrêter la lecture";
+"Send SendDeleteFile"                           = "Envoyer suppression de fichiers";
+"Send SetParameter"                             = "Envoyer Les paramètres de réglage";
+"Send FirmwareDownload"                         = "Envoyer Téléchargement de micrologiciel";
+"Send FirmwareRawData"                          = "Envoyer Des données de mise à jour";
+"Send FirmwareUpgrade"                          = "Envoyer Des informations de mise à niveau";
+"Send VendorCmd"                                = "Envoyer Des informations de version";
+"Getting setting from device"                   = "à partir d'un dispositif de lecture de paramètres de configuration";
+"Downloading %.f%%"                             = "En chargement %.f%%";
+"Buffering"                                     = "Mise en mémoire tampon";
+
+//setting xml file
+/*
+ "Resolution"                                    = "Resolution";
+ "Exposure"                                      = "Exposure";
+ "Motion Detection"                              = "Motion Detection";
+ "Loop Recording"                                = "Loop Recording";
+ "WDR"                                           = "WDR";
+ "Record Audio"                                  = "Record Audio";
+ "Date Stamp"                                    = "Date Stamp";
+ "Quality"                                       = "Quality";
+ "Sequence"                                      = "Sequence";
+ "Anti-Shaking"                                  = "Anti-Shaking";
+ "Date/Time"                                     = "Date/Time";
+ "Sharpness"                                     = "Sharpness";
+ "White Balance"                                 = "White Balance";
+ "System"                                        = "System";
+ "Frequency"                                     = "Frequency";
+ "Screen Saver"                                  = "Screen Saver";
+ "Auto Power Off"                                = "Auto Power Off";
+ "Language"                                      = "Language";
+ "Beep Sound"                                    = "Beep Sound";
+ "Clear Buffer"                                  = "Clear Buffer";
+ "Format"                                        = "Format";
+ "Default Setting"                               = "Default Setting";
+ "Version"                                       = "Version";
+ "WifiName"                                      = "SSID";
+ "Password"                                      = "Password";
+ 
+ "Auto"                                          = "Auto";
+ "Off"                                           = "Off";
+ "On"                                            = "On";
+ "1 Minute"                                      = "1 Minute";
+ "2 Minutes"                                     = "2 Minutes";
+ "3 Minutes"                                     = "3 Minutes";
+ "5 Minutes"                                     = "5 Minutes";
+ "10 Minutes"                                    = "10 Minutes";
+ "Date"                                          = "Date";
+ "Fine"                                          = "Fine";
+ "Normal"                                        = "Normal";
+ "Economical"                                    = "Economical";
+ 
+ "Strong"                                        = "Strong";
+ "Soft"                                          = "Soft";
+ "Daylight"                                      = "Daylight";
+ "Cloudy"                                        = "Cloudy";
+ "Tungsten"                                      = "Tungsten";
+ "Flourescent"                                   = "Flourescent";
+ 
+ "English"                                       = "English";
+ "Traditional Chinese"                           = "繁體中文";
+ "Simplified Chinese"                            = "简体中文";
+ */
+

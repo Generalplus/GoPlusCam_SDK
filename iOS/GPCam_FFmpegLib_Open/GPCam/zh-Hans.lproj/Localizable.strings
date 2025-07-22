@@ -1,0 +1,165 @@
+/* 
+  Localizable.strings
+  GoPlus Cam
+
+  Created by generalplus_sa1 on 2017/2/14.
+  Copyright © 2017年 generalplus_sa1. All rights reserved.
+*/
+//Common
+"OK"                                            = "确定";
+"Yes"                                           = "是";
+"No"                                            = "否";
+"Cancel"                                        = "取消";
+"Confirm"                                       = "确定";
+"Abort"                                         = "中止";
+"Record"                                        = "录像";
+"Capture"                                       = "拍照";
+"File"                                          = "文件";
+"Play"                                          = "播放";
+"Download"                                      = "下载";
+"Info"                                          = "属性";
+"Delete"                                        = "删除";
+"failed"                                        = "失败";
+"Failed"                                        = "失败";
+"Connected"                                     = "已连接";
+"Connecting"                                    = "连接中";
+"Failed to connect"                             = "连接失败";
+"Time"                                          = "时间";
+"Size"                                          = "容量";
+"Mode"                                          = "模式";
+"Done"                                          = "完成";
+"Save"                                          = "保存";
+
+//EntryViewController
+"Wifi sport Cam not found"                      = "未连接上wifi sport cam";
+"Please connect to Wifi sport Cam first."       = "请先连接上wifi sport cam。";
+"Setting"                                       = "设定";
+"Set Wifi sport Cam Time"                       = "设定Wifi sport Cam时间";
+"Save Log"                                      = "储存日志";
+"Set Buffering Time"                            = "设定缓冲时间 (ms)";
+"Discard corrupt"                               = "不显示破图";
+"Disable"                                       = "停用";
+"Enable"                                        = "启用";
+
+//MainViewController
+
+//SettingTableViewController
+"Perform action"                                = "执行动作";
+"Are you sure to do"                            = "你确定要执行";
+
+//FWSelectTableViewController
+"Upgrade Firmware"                              = "固件升级";
+"Are you sure to select \"%@\" to upgrade firmware?"    = "您确定要选择 \"%@\" 升级固件吗?";
+"Select file to upgrade device FW"              = "选择文件升级设备软件";
+"Upgrade Firmware failed"                       = "升级失败";
+"File \"%@\" is incorrect firmware file"        = "文件 \"%@\" 是错误的升级文件";
+"Upgrade Firmware successfully"                 = "升级成功";
+"Please reboot the Wifi sport Cam and APP."     = "请重启wifi sport cam和APP。";
+
+//FileListCollectionViewController
+"Loading"                                       = "载入中";
+"Delete File"                                   = "删除文件";
+"Do you sure to delete"                         = "你确定要删除";
+"Save to iOS photo library failed!"             = "保存到IOS照片库失败!";
+"Resolution > 720P!"                            = "分辨率大于720P！";
+"Video file with resolution > 720P will not save to iOS photo library!"        = "影片分辨率大于720P将不会存入IOS的照片库中！";
+"Download file"                                 = "下载文件";
+"has been downloaded."                          = "已下载。";
+"Delete phone file"                             = "删除手机文件";
+"Delete Wifi sport Cam file"                    = "删除 Wifi sport Cam 文件";
+
+//ProtocolAgent
+"Server Is Busy!"                               = "服务器忙！";
+"Invalid Command!"                              = "无效指令！";
+"Request TimeOut!"                              = "请求超时！";
+"Mode Error!"                                   = "模式错误！";
+"No Storage!"                                   = "无内存卡！";
+"Write Failed"                                  = "写错误";
+"Get File List Failed!"                         = "读取文件列表失败！";
+"Get Thumbnail Failed!"                         = "读取截图失败！";
+"Full Storage!"                                 = "卡满！";
+"Battery Low!"                                  = "电量低！";
+"Mem malloc error!"                             = "存储体配置错误！";
+"Checksum error!"                               = "校验码错误！";
+"No File!"                                      = "无文件!";
+"Connect to"                                    = "连接到";
+"Please connect to an authorized Wifi sport Cam device or\n retry to restart the sport Cam first."           = "请连接到认证过的wifi sport cam或是\n 尝试先重启wifi sport cam。";
+"Command left"                                  = "指令剩下";
+"Lost connection! Command failed"               = "连接丢失！命令失败";
+"Failed! Unknown error code"                    = "失败！未知错误码";
+"Send SetMode"                                  = "发送 设定模式";
+"Getting prameter file"                         = "读取 设定文件";
+"Send PowerOff"                                 = "发送 电源开关";
+"Send RestartStreaming"                         = "发送 重新串流";
+"Send record"                                   = "发送 录影";
+"Send AudioOnOff"                               = "发送 声音开关";
+"Send CapturePicture"                           = "发送 拍照";
+"Send StartPlayback"                            = "发送 开始播放";
+"Send PausePlayback"                            = "发送 暂停播放";
+"Send GetFullFileList"                          = "发送 取得文件列表";
+"Send GetFileThumbnail"                         = "发送 取得缩略图";
+"Send GetFileRawData"                           = "发送 取得文件原始数据";
+"Send SendStopPlayback"                         = "发送 停止播放";
+"Send SendDeleteFile"                           = "发送 删除文件";
+"Send SetParameter"                             = "发送 设定参数";
+"Send FirmwareDownload"                         = "发送 固件下载";
+"Send FirmwareRawData"                          = "发送 升级数据";
+"Send FirmwareUpgrade"                          = "发送 升级信息";
+"Send VendorCmd"                                = "发送 版本信息";
+"Getting setting from device"                   = "从设备读取设置参数";
+"Downloading %.f%%"                             = "下载中 %.f%%";
+"Buffering"                                     = "缓冲";
+
+//setting xml file
+/*
+ "Resolution"                                    = "Resolution";
+ "Exposure"                                      = "Exposure";
+ "Motion Detection"                              = "Motion Detection";
+ "Loop Recording"                                = "Loop Recording";
+ "WDR"                                           = "WDR";
+ "Record Audio"                                  = "Record Audio";
+ "Date Stamp"                                    = "Date Stamp";
+ "Quality"                                       = "Quality";
+ "Sequence"                                      = "Sequence";
+ "Anti-Shaking"                                  = "Anti-Shaking";
+ "Date/Time"                                     = "Date/Time";
+ "Sharpness"                                     = "Sharpness";
+ "White Balance"                                 = "White Balance";
+ "System"                                        = "System";
+ "Frequency"                                     = "Frequency";
+ "Screen Saver"                                  = "Screen Saver";
+ "Auto Power Off"                                = "Auto Power Off";
+ "Language"                                      = "Language";
+ "Beep Sound"                                    = "Beep Sound";
+ "Clear Buffer"                                  = "Clear Buffer";
+ "Format"                                        = "Format";
+ "Default Setting"                               = "Default Setting";
+ "Version"                                       = "Version";
+ "WifiName"                                      = "SSID";
+ "Password"                                      = "Password";
+ 
+ "Auto"                                          = "Auto";
+ "Off"                                           = "Off";
+ "On"                                            = "On";
+ "1 Minute"                                      = "1 Minute";
+ "2 Minutes"                                     = "2 Minutes";
+ "3 Minutes"                                     = "3 Minutes";
+ "5 Minutes"                                     = "5 Minutes";
+ "10 Minutes"                                    = "10 Minutes";
+ "Date"                                          = "Date";
+ "Fine"                                          = "Fine";
+ "Normal"                                        = "Normal";
+ "Economical"                                    = "Economical";
+ 
+ "Strong"                                        = "Strong";
+ "Soft"                                          = "Soft";
+ "Daylight"                                      = "Daylight";
+ "Cloudy"                                        = "Cloudy";
+ "Tungsten"                                      = "Tungsten";
+ "Flourescent"                                   = "Flourescent";
+ 
+ "English"                                       = "English";
+ "Traditional Chinese"                           = "繁體中文";
+ "Simplified Chinese"                            = "简体中文";
+ */
+

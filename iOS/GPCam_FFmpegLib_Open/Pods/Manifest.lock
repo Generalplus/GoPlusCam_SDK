@@ -1,0 +1,13 @@
+PODS:
+  - MobileVLCKit (2.2.1)
+  - PLCrashReporter (1.2.0)
+
+DEPENDENCIES:
+  - MobileVLCKit
+  - PLCrashReporter
+
+SPEC CHECKSUMS:
+  MobileVLCKit: bb3359b2221316554129beb0c45827803a2de9be
+  PLCrashReporter: 16927d86a093d0b9cf110545dacb77cb0ed0f243
+
+COCOAPODS: 0.39.0

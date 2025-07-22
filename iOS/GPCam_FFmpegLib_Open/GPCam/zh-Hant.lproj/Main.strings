@@ -1,0 +1,84 @@
+
+/* Class = "UINavigationItem"; title = "Vendor"; ObjectID = "3oh-Ri-EyM"; */
+"3oh-Ri-EyM.title" = "Vendor";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "5ls-he-pAh"; */
+"5ls-he-pAh.normalTitle" = "傳送";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "69s-PH-vAx"; */
+"69s-PH-vAx.text" = "載入中";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "6d3-5F-YhI"; */
+"6d3-5F-YhI.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "File List"; ObjectID = "7QQ-MQ-Sdy"; */
+"7QQ-MQ-Sdy.title" = "檔案清單";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "9zV-jy-0EV"; */
+"9zV-jy-0EV.normalTitle" = "確認";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "AVQ-Qt-aBN"; */
+"AVQ-Qt-aBN.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "C5h-Mu-OXl"; */
+"C5h-Mu-OXl.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "FW Upgrade"; ObjectID = "CZF-SM-x0g"; */
+"CZF-SM-x0g.title" = "韌體更新";
+
+/* Class = "UITextView"; text = "File info"; ObjectID = "Cfo-eN-Us4"; */
+"Cfo-eN-Us4.text" = "檔案屬性";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "E7z-WJ-6rB"; */
+"E7z-WJ-6rB.normalTitle" = "確認";
+
+/* Class = "UINavigationItem"; title = "GoPlus Cam"; ObjectID = "GRT-yu-kef"; */
+"GRT-yu-kef.title" = "GoPlus Cam";
+
+/* Class = "UIButton"; normalTitle = "Audio"; ObjectID = "GfU-WE-Xne"; */
+"GfU-WE-Xne.normalTitle" = "Audio";
+
+/* Class = "UIButton"; normalTitle = "Vendor"; ObjectID = "HoQ-GK-l2M"; */
+"HoQ-GK-l2M.normalTitle" = "Vendor";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "Lsd-2F-G5F"; */
+"Lsd-2F-G5F.normalTitle" = "Disconnect";
+
+/* Class = "UILabel"; text = "Res"; ObjectID = "UTe-yR-WjG"; */
+"UTe-yR-WjG.text" = "解析度";
+
+/* Class = "UIBarButtonItem"; title = "FWUpdate"; ObjectID = "a6I-LV-7rP"; */
+"a6I-LV-7rP.title" = "韌體更新";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "aYq-iK-uPH"; */
+"aYq-iK-uPH.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Get"; ObjectID = "ddp-cf-CZE"; */
+"ddp-cf-CZE.text" = "讀取";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "gj4-ka-jBD"; */
+"gj4-ka-jBD.text" = "時間";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hgt-vU-ZKY"; */
+"hgt-vU-ZKY.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "jj9-LT-hq7"; */
+"jj9-LT-hq7.text" = "速率";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ljh-RE-GDs"; */
+"ljh-RE-GDs.normalTitle" = "取消";
+
+/* Class = "UINavigationItem"; title = "Log"; ObjectID = "mKa-q8-Cbi"; */
+"mKa-q8-Cbi.title" = "紀錄";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "vuy-ni-jQd"; */
+"vuy-ni-jQd.text" = "狀態";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "wau-cz-qVw"; */
+"wau-cz-qVw.title" = "設定";
+
+/* Class = "UIButton"; normalTitle = "Log"; ObjectID = "y52-lo-jHS"; */
+"y52-lo-jHS.normalTitle" = "紀錄";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "z6V-Gi-8Ys"; */
+"z6V-Gi-8Ys.text" = "版本";

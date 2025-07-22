@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4e8658d6-ba7b-bd4b-b822-68c24a975b31++8903",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4e8658d6-ba7b-bd4b-b822-68c24a975b31++8903" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4e8658d6-ba7b-bd4b-b822-68c24a975b31++8903" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "35358371-2265-4BDD-A67E-53FA40B4A6B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4e8658d6-ba7b-bd4b-b822-68c24a975b31++8903" : "Prod_iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GoPlus Cam",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Src\/TestProject\/GPCam_FFmpegLib\/GoPlus Cam.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.general.com\/GP_SW\/Software",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4e8658d6-ba7b-bd4b-b822-68c24a975b31++8903"
+    }
+  ]
+}

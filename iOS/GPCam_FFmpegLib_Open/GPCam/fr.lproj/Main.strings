@@ -1,0 +1,84 @@
+
+/* Class = "UINavigationItem"; title = "Vendor"; ObjectID = "3oh-Ri-EyM"; */
+"3oh-Ri-EyM.title" = "Vendor";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "5ls-he-pAh"; */
+"5ls-he-pAh.normalTitle" = "De transfert";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "69s-PH-vAx"; */
+"69s-PH-vAx.text" = "De chargement";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "6d3-5F-YhI"; */
+"6d3-5F-YhI.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "File List"; ObjectID = "7QQ-MQ-Sdy"; */
+"7QQ-MQ-Sdy.title" = "Liste des documents";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "9zV-jy-0EV"; */
+"9zV-jy-0EV.normalTitle" = "Confirmation";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "AVQ-Qt-aBN"; */
+"AVQ-Qt-aBN.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "C5h-Mu-OXl"; */
+"C5h-Mu-OXl.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "FW Upgrade"; ObjectID = "CZF-SM-x0g"; */
+"CZF-SM-x0g.title" = "Le Micrologiciel mis a jour";
+
+/* Class = "UITextView"; text = "File info"; ObjectID = "Cfo-eN-Us4"; */
+"Cfo-eN-Us4.text" = "Attribut de fichier";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "E7z-WJ-6rB"; */
+"E7z-WJ-6rB.normalTitle" = "Confirmation";
+
+/* Class = "UINavigationItem"; title = "GoPlus Cam"; ObjectID = "GRT-yu-kef"; */
+"GRT-yu-kef.title" = "GoPlus Cam";
+
+/* Class = "UIButton"; normalTitle = "Audio"; ObjectID = "GfU-WE-Xne"; */
+"GfU-WE-Xne.normalTitle" = "Audio";
+
+/* Class = "UIButton"; normalTitle = "Vendor"; ObjectID = "HoQ-GK-l2M"; */
+"HoQ-GK-l2M.normalTitle" = "Vendor";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "Lsd-2F-G5F"; */
+"Lsd-2F-G5F.normalTitle" = "Disconnect";
+
+/* Class = "UILabel"; text = "Res"; ObjectID = "UTe-yR-WjG"; */
+"UTe-yR-WjG.text" = "Resolution";
+
+/* Class = "UIBarButtonItem"; title = "FWUpdate"; ObjectID = "a6I-LV-7rP"; */
+"a6I-LV-7rP.title" = "Le Micrologiciel mis a jour";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "aYq-iK-uPH"; */
+"aYq-iK-uPH.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Get"; ObjectID = "ddp-cf-CZE"; */
+"ddp-cf-CZE.text" = "Lire";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "gj4-ka-jBD"; */
+"gj4-ka-jBD.text" = "Le temps";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hgt-vU-ZKY"; */
+"hgt-vU-ZKY.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "jj9-LT-hq7"; */
+"jj9-LT-hq7.text" = "Vitesse";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ljh-RE-GDs"; */
+"ljh-RE-GDs.normalTitle" = "Annuler";
+
+/* Class = "UINavigationItem"; title = "Log"; ObjectID = "mKa-q8-Cbi"; */
+"mKa-q8-Cbi.title" = "Enregistrement";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "vuy-ni-jQd"; */
+"vuy-ni-jQd.text" = "etat";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "wau-cz-qVw"; */
+"wau-cz-qVw.title" = "Ensemble";
+
+/* Class = "UIButton"; normalTitle = "Log"; ObjectID = "y52-lo-jHS"; */
+"y52-lo-jHS.normalTitle" = "Enregistrement";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "z6V-Gi-8Ys"; */
+"z6V-Gi-8Ys.text" = "Version";

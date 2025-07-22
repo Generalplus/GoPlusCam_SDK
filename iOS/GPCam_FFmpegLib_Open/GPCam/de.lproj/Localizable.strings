@@ -1,0 +1,167 @@
+/* 
+  Localizable.strings
+  GoPlus Cam
+
+  Created by generalplus_sa1 on 2017/2/14.
+  Copyright © 2017年 generalplus_sa1. All rights reserved.
+*/
+
+//Common 德文
+"OK"                                            = "ok";
+"Yes"                                           = "ja";
+"No"                                            = "nei";
+"Cancel"                                        = "stornieren";
+"Confirm"                                       = "bestätigen";
+"Abort"                                         = "abbrechen";
+"Record"                                        = "aufnehmen";
+"Capture"                                       = "Fotoaufnahme";
+"File"                                          = "Datei";
+"Play"                                          = "Play";
+"Download"                                      = "Download";
+"Info"                                          = "Info";
+"Delete"                                        = "Delete";
+"failed"                                        = "Fehlgeschlagen";
+"Failed"                                        = "Fehlgeschlagen";
+"Connected"                                     = "Verbunden";
+"Connecting"                                    = "Verbinden";
+"Failed to connect"                             = "Verbindung fehlgeschlagen";
+"Time"                                          = "Zeit";
+"Size"                                          = "Größe";
+"Mode"                                          = "Modus";
+"Done"                                          = "Fertig";
+"Save"                                          = "Speichern";
+
+//EntryViewController
+"Wifi sport Cam not found"                      = "Discovery Adventures WIFI Cam nicht gefunden";
+"Please connect to Wifi sport Cam first."       = "Bitte verbinden Sie Ihr Mobilgerät mit der Discovery Adventures Action Cam";
+"Setting"                                       = "Einstellung";
+"Set Wifi sport Cam Time"                       = "Set Wifi Sport Cam Zeit";
+"Save Log"                                      = "Export Log";
+"Set Buffering Time"                            = "Pufferzeit einstellen (ms)";
+"Discard corrupt"                               = "Keine kaputten Bilder anzeigen";
+"Disable"                                       = "Deaktivieren";
+"Enable"                                        = "Aktivieren";
+
+//MainViewController
+
+//SettingTableViewController
+"Perform action"                                = "Aktion ausführen";
+"Are you sure to do"                            = "Sind sie sicher?";
+
+//FWSelectTableViewController
+"Upgrade Firmware"                              = "Firmware Upgrade";
+"Are you sure to select \"%@\" to upgrade firmware?"    = "Wollen Sie wirklich \"%@\" aussuchen um die Firmware zu aktualisieren?";
+"Select file to upgrade device FW"              = "Dateiauswahl um Firmware zu aktualisieren";
+"Upgrade Firmware failed"                       = "Firmware Upgrade fehlgeschlagen";
+"File \"%@\" is incorrect firmware file"        = "Die Datei \"%@\" ist keine korrekte FW Datei";
+"Upgrade Firmware successfully"                 = "Firmware Upgrade erfolgreich";
+"Please reboot the Wifi sport Cam and APP."     = "Bitte die Discovery Adventures Cam und APP neustarten";
+
+//FileListCollectionViewController
+"Loading"                                       = "Laden";
+"Delete File"                                   = "Dateilöschen";
+"Do you sure to delete"                         = "Möchten Sie wirklich löschen?";
+"Save to iOS photo library failed!"             = "In die iOS Foto Galerie fehlgeschlagen";
+"Resolution > 720P!"                            = "Auflösung > 720p!";
+"Video file with resolution > 720P will not save to iOS photo library!"        = "Video Auflösung ist > 720P, und kann nicht in der iOS Gallerie gespeichert werden";
+"Download file"                                 = "Download Datei";
+"has been downloaded."                          = "Wurde heruntergeladen";
+"Delete phone file"                             = "Telefondatei loschen";
+"Delete Wifi sport Cam file"                    = "Loschen Wifi sport Cam datei";
+
+//ProtocolAgent
+"Server Is Busy!"                               = "Server ist beschäftigt";
+"Invalid Command!"                              = "Ungültige Vorgabe";
+"Request TimeOut!"                              = "Time Out ";
+"Mode Error!"                                   = "Modus Fehler!";
+"No Storage!"                                   = "Kein Speicher";
+"Write Failed"                                  = "Schreiben fehlgeschlagen";
+"Get File List Failed!"                         = "Dateiliste fehlgeschlagen";
+"Get Thumbnail Failed!"                         = "Thumbnail fehlgeschlagen";
+"Full Storage!"                                 = "Speicher voll";
+"Battery Low!"                                  = "Niedriger Akkustand";
+"Mem malloc error!"                             = "Speicherfehler";
+"Checksum error!"                               = "Checksum Fehler";
+"No File!"                                      = "Keine Datei!";
+"Connect to"                                    = "Verbinden zu";
+"Please connect to an authorized Wifi sport Cam device or\n retry to restart the sport Cam first."           = "Bitte verbinden Sie Ihr Mobilgerät mit der Discovery Adventures Action Cam";
+"Command left"                                  = "Befehl links";
+"Lost connection! Command failed"               = "Verbindung verloren! Befehl fehlgeschlagen";
+"Failed! Unknown error code"                    = "Unbekannte Fehlermeldung";
+"Send SetMode"                                  = "Send SetModus";
+"Getting prameter file"                         = "Parameter Datei";
+"Send PowerOff"                                 = "Send PowerOff";
+"Send RestartStreaming"                         = "Send RestartStreaming";
+"Send record"                                   = "Send record";
+"Send AudioOnOff"                               = "Send AudioOnOff";
+"Send CapturePicture"                           = "Send CapturePicture";
+"Send StartPlayback"                            = "Send StartPlayback";
+"Send PausePlayback"                            = "Send PausePlayback";
+"Send GetFullFileList"                          = "Send GetFullFileList";
+"Send GetFileThumbnail"                         = "Send GetFileThumbnail";
+"Send GetFileRawData"                           = "Send GetFileRawData";
+"Send SendStopPlayback"                         = "Send SendStopPlayback";
+"Send SendDeleteFile"                           = "Send SendStopPlayback";
+"Send SetParameter"                             = "Send SetParameter";
+"Send FirmwareDownload"                         = "Send FirmwareDownload";
+"Send FirmwareRawData"                          = "Send FirmwareRawData";
+"Send FirmwareUpgrade"                          = "Send FirmwareUpgrade";
+"Send VendorCmd"                                = "Send VendorCmd";
+"Getting setting from device"                   = "Geräte Einstellung";
+"Downloading %.f%%"                             = "Downlaoading %.f%%";
+"Buffering"                                     = "Pufferung";
+
+//setting xml file
+/*
+"Resolution"                                    = "Resolution";
+"Exposure"                                      = "Exposure";
+"Motion Detection"                              = "Motion Detection";
+"Loop Recording"                                = "Loop Recording";
+"WDR"                                           = "WDR";
+"Record Audio"                                  = "Record Audio";
+"Date Stamp"                                    = "Date Stamp";
+"Quality"                                       = "Quality";
+"Sequence"                                      = "Sequence";
+"Anti-Shaking"                                  = "Anti-Shaking";
+"Date/Time"                                     = "Date/Time";
+"Sharpness"                                     = "Sharpness";
+"White Balance"                                 = "White Balance";
+"System"                                        = "System";
+"Frequency"                                     = "Frequency";
+"Screen Saver"                                  = "Screen Saver";
+"Auto Power Off"                                = "Auto Power Off";
+"Language"                                      = "Language";
+"Beep Sound"                                    = "Beep Sound";
+"Clear Buffer"                                  = "Clear Buffer";
+"Format"                                        = "Format";
+"Default Setting"                               = "Default Setting";
+"Version"                                       = "Version";
+"WifiName"                                      = "SSID";
+"Password"                                      = "Password";
+
+"Auto"                                          = "Auto";
+"Off"                                           = "Off";
+"On"                                            = "On";
+"1 Minute"                                      = "1 Minute";
+"2 Minutes"                                     = "2 Minutes";
+"3 Minutes"                                     = "3 Minutes";
+"5 Minutes"                                     = "5 Minutes";
+"10 Minutes"                                    = "10 Minutes";
+"Date"                                          = "Date";
+"Fine"                                          = "Fine";
+"Normal"                                        = "Normal";
+"Economical"                                    = "Economical";
+
+"Strong"                                        = "Strong";
+"Soft"                                          = "Soft";
+"Daylight"                                      = "Daylight";
+"Cloudy"                                        = "Cloudy";
+"Tungsten"                                      = "Tungsten";
+"Flourescent"                                   = "Flourescent";
+
+"English"                                       = "English";
+"Traditional Chinese"                           = "繁體中文";
+"Simplified Chinese"                            = "简体中文";
+*/
+
+
