@@ -1,4 +1,8 @@
-G+ GPCam SDK ver 3.0.11 - 2024.10.23    
+G+ GPCam SDK_FFMPEG_OPEN_V3.0.12 - 2025.07.17
+iOS
+- FFMPEG open source
+
+G+ GPCam SDK ver 3.0.11 - 2024.10.23
 Android
 - support targetSdkVersion 34
 
