@@ -4,7 +4,7 @@ iOS
 
 G+ GPCam SDK ver 3.0.11 - 2024.10.23
 Android
-- support targetSdkVersion 34
+- support targetSdkVersion 34  
 
 G+ GPCam SDK ver 3.0.10.3 b1 - 2024.04.23
 Android
